@@ -1,0 +1,108 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.3
+4 verbose readDependencies loading dependencies from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/package.json
+5 verbose install where, deps [ '/Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM',
+5 verbose install   [ 'angular2',
+5 verbose install     'systemjs',
+5 verbose install     'es6-shim',
+5 verbose install     'reflect-metadata',
+5 verbose install     'rxjs',
+5 verbose install     'zone.js',
+5 verbose install     'bootstrap',
+5 verbose install     'concurrently',
+5 verbose install     'lite-server',
+5 verbose install     'typescript',
+5 verbose install     'typings' ] ]
+6 verbose install where, peers [ '/Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM',
+6 verbose install   [] ]
+7 verbose installManyTop reading for lifecycle /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/package.json
+8 info preinstall product-management@1.0.0
+9 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/angular2/package.json
+10 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/bootstrap/package.json
+11 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/concurrently/package.json
+12 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/es6-shim/package.json
+13 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/lite-server/package.json
+14 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/reflect-metadata/package.json
+15 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/rxjs/package.json
+16 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/systemjs/package.json
+17 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/typescript/package.json
+18 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/typings/package.json
+19 verbose installManyTop reading scoped package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/zone.js/package.json
+20 verbose readDependencies loading dependencies from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/package.json
+21 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/angular2/package.json
+22 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/bootstrap/package.json
+23 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/concurrently/package.json
+24 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/es6-shim/package.json
+25 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/lite-server/package.json
+26 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/reflect-metadata/package.json
+27 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/rxjs/package.json
+28 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/systemjs/package.json
+29 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/typescript/package.json
+30 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/typings/package.json
+31 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/zone.js/package.json
+32 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/.bin/tsc/package.json
+33 verbose targetResolver reading package data from /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/node_modules/.bin/tsserver/package.json
+34 verbose already installed skipping bootstrap@^3.3.6 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+35 verbose already installed skipping concurrently@^2.0.0 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+36 verbose already installed skipping lite-server@^2.2.0 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+37 verbose already installed skipping typescript@^1.8.10 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+38 verbose already installed skipping typings@^0.7.12 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+39 verbose already installed skipping angular2@2.0.0-beta.15 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+40 verbose already installed skipping systemjs@0.19.26 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+41 verbose already installed skipping es6-shim@^0.35.0 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+42 verbose already installed skipping reflect-metadata@0.1.2 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+43 verbose already installed skipping rxjs@5.0.0-beta.2 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+44 verbose already installed skipping zone.js@0.6.10 /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+45 silly install resolved []
+46 info build /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM
+47 info linkStuff product-management@1.0.0
+48 silly linkStuff product-management@1.0.0 has /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master as its parent node_modules
+49 verbose linkBins product-management@1.0.0
+50 verbose linkMans product-management@1.0.0
+51 verbose rebuildBundles product-management@1.0.0
+52 verbose rebuildBundles [ '.bin',
+52 verbose rebuildBundles   'angular2',
+52 verbose rebuildBundles   'bootstrap',
+52 verbose rebuildBundles   'concurrently',
+52 verbose rebuildBundles   'es6-shim',
+52 verbose rebuildBundles   'lite-server',
+52 verbose rebuildBundles   'reflect-metadata',
+52 verbose rebuildBundles   'rxjs',
+52 verbose rebuildBundles   'systemjs',
+52 verbose rebuildBundles   'typescript',
+52 verbose rebuildBundles   'typings',
+52 verbose rebuildBundles   'zone.js' ]
+53 info install product-management@1.0.0
+54 info postinstall product-management@1.0.0
+55 verbose unsafe-perm in lifecycle true
+56 info product-management@1.0.0 Failed to exec postinstall script
+57 verbose stack Error: product-management@1.0.0 postinstall: `typings install`
+57 verbose stack spawn ENOENT
+57 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:17:16)
+57 verbose stack     at emitTwo (events.js:87:13)
+57 verbose stack     at ChildProcess.emit (events.js:172:7)
+57 verbose stack     at maybeClose (internal/child_process.js:818:16)
+57 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+58 verbose pkgid product-management@1.0.0
+59 verbose cwd /Users/zwidder/programming/pluralsight/Angular2-GettingStarted-master/APM/app
+60 error Darwin 14.5.0
+61 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install"
+62 error node v4.2.3
+63 error npm  v2.14.7
+64 error file sh
+65 error code ELIFECYCLE
+66 error errno ENOENT
+67 error syscall spawn
+68 error product-management@1.0.0 postinstall: `typings install`
+68 error spawn ENOENT
+69 error Failed at the product-management@1.0.0 postinstall script 'typings install'.
+69 error This is most likely a problem with the product-management package,
+69 error not with npm itself.
+69 error Tell the author that this fails on your system:
+69 error     typings install
+69 error You can get their info via:
+69 error     npm owner ls product-management
+69 error There is likely additional logging output above.
+70 verbose exit [ 1, true ]
